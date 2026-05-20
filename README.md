@@ -9,6 +9,8 @@ My goals for this project were:
 
 For a data source, I used one of Microsoft's sample lightweight datasets:
 
+<img width="1320" height="1020" alt="350095306-025b31b9-90cc-4010-9121-85eed5cf138b" src="https://github.com/user-attachments/assets/25c87fbe-9312-4ea4-a648-d19c73b4457f" />
+
 azurediagram
 
 # Project Steps
